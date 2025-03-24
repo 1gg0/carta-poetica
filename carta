@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carta Poética</title>
+    <style>
+        body {
+            text-align: center;
+            background-color: #f8f1e4;
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        .carta {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            display: inline-block;
+            max-width: 600px;
+        }
+        .botao {
+            margin-top: 20px;
+            display: inline-block;
+            padding: 10px 20px;
+            background: #b5651d;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="carta">
+        <h1>Carta Poética</h1>
+        <p>
+            "Horas vivas<br><br>
+            Noite; abrem-se as flores...<br>
+            Que esplendores!<br>
+            Cíntia sonha amores<br>
+            Pelo céu.<br><br>
+            Tênues as neblinas<br>
+            Às campinas<br>
+            Descem das colinas,<br>
+            Como um véu.<br><br>
+            Mãos em mãos travadas<br>
+            Animadas,<br>
+            Vão aquelas fadas<br>
+            Pelo ar;<br>
+            Soltos os cabelos,<br>
+            Em novelos,<br>
+            Puros, louros, belos,<br>
+            A voar.<br><br>
+            — "Homem, nos teus dias<br>
+            Que agonias,<br>
+            Sonhos, utopias,<br>
+            Ambições;<br>
+            Vivas e fagueiras,<br>
+            As primeiras,<br>
+            Como as derradeiras<br>
+            Ilusões!<br><br>
+            — Quantas, quantas vidas<br>
+            Vão perdidas,<br>
+            Pombas malferidas<br>
+            Pelo mal!<br>
+            Anos após anos,<br>
+            Tão insanos,<br>
+            Vêm os desenganos<br>
+            Afinal.<br><br>
+            — Dorme: se os pesares<br>
+            Repousares.<br>
+            Vês? — por estes ares<br>
+            Vamos rir;<br>
+            Mortas, não; festivas,<br>
+            E lascivas,<br>
+            Somos — horas vivas<br>
+            De dormir." <br><br>
+            - Machado de Assis, em "Crisálidas".
+        </p>
+        <a href="https://pt.wikipedia.org/wiki/Machado_de_Assis" target="_blank">Machado de Assis</a>
+    </div>
+</body>
+
+</html>
